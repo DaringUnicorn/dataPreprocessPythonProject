@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: dataPreprocessor
 Version: 0.1
 Summary: A recoded data preprocessing library for handling various data cleaning and transformation tasks. The library includes classes for text cleaning, missing value imputation, one-hot encoding and more.
-Home-page: .
+Home-page: https://github.com/DaringUnicorn/dataPreprocessPythonProject
 Author: fatmanur caliskan, cihan yilmaz
 Author-email: fatmanur.caliskan@stu.fsm.edu.tr, cihan.yilmaz@stu.fsm.edu.tr
 Classifier: Programming Language :: Python :: 3

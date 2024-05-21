@@ -10,10 +10,10 @@ setup(
         'scikit-learn',
         'nltk',
     ],
-    description='A recoded data preprocessing library for handling various data cleaning and transformation tasks. The library includes classes for text cleaning, missing value imputation, one-hot encoding and more.',
+    description='A data preprocessor for machine learning projects.',
     author='fatmanur caliskan, cihan yilmaz',
     author_email='fatmanur.caliskan@stu.fsm.edu.tr, cihan.yilmaz@stu.fsm.edu.tr',
-    url='.',
+    url='https://github.com/DaringUnicorn/dataPreprocessPythonProject',
     classifiers=[
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.6',
